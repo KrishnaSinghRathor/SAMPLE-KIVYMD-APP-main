@@ -1,2 +1,2 @@
-# SAMPLE-KIVYMD-APP-main
-converting .py to apk 
+# SAMPLE-KIVYMD-APP
+The sample kivy and kivymd app to apk conversion.
